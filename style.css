@@ -68,6 +68,7 @@ ul li a:hover {
  } 
 .center-div
 {
+  position: absolute;
   margin: center;
   width: 100px;
   height: 100px;
