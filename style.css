@@ -69,7 +69,7 @@ ul li a:hover {
 .center-div
 {
   position: absolute;
-  margin: auto;
+  margin: center;
   width: 100px;
   height: 100px;
   background-color: #ccc;
