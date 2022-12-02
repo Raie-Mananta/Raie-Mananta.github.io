@@ -1,0 +1,27 @@
+body {
+color:black;
+background-color:white;
+background-image:url(20190418004754-dec4ead4.jpg);
+}
+
+html, body {
+ margin: 0;
+ padding: 0;
+ }
+body {
+ background-color: white;
+ font-family: Arial, sans-serif;
+ font-size: 100%;
+ }
+h1 {
+ font-size: 100%;
+ color: black;
+ text-align: center;
+ border-style : ridge;
+ margin:auto;
+ width: 800px;
+ }
+.image img:hover {
+ width:300px;
+ height:400px;
+ }
