@@ -18,9 +18,9 @@ h1 {
  color: black;
  position: absolute;
  margin: auto;
+ margin-left:250px;
  top: 0;
  bottom: 0;
- left: 0;
  width: 100px;
  height: 100px;
  background-color: #ccc;
@@ -68,6 +68,7 @@ ul li a:hover {
  } 
 .center-div
 {
+  margin:auto;
   width: 900px;  
   padding-top:10px; 
   padding-bottom:10px;
