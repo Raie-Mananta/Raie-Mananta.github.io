@@ -68,16 +68,8 @@ ul li a:hover {
  } 
 .center-div
 {
-  position: absolute;
-  margin: center;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  height: 100px;
-  background-color: #ccc;
-  border-radius: 3px;
-  width: 900px;  
+  margin: auto;
+  border-radius: 3px; 
   padding-top:10px; 
   padding-bottom:10px;
   border: 3px solid #A0A0A0; 
